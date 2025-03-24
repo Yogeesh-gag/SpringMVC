@@ -1,0 +1,14 @@
+127.0.0.1 - - [18/Dec/2024:09:50:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:09:50:22 +0530] "GET /Spring_MVC_StudentDB/index.jsp HTTP/1.1" 200 307
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:09:50:22 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:14:07 +0530] "GET /Spring_MVC_StudentDB/AddStudent.jsp HTTP/1.1" 200 681
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:14:55 +0530] "POST /Spring_MVC_StudentDB/add-student HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:14:55 +0530] "GET /Spring_MVC_StudentDB/index.jsp HTTP/1.1" 200 307
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:14:58 +0530] "GET /Spring_MVC_StudentDB/displayAllStudents HTTP/1.1" 200 2556
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:15:14 +0530] "GET /Spring_MVC_StudentDB/delete-student-by-id?studentId=107 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:15:14 +0530] "GET /Spring_MVC_StudentDB/displayAllStudents HTTP/1.1" 200 2275
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:15:20 +0530] "GET /Spring_MVC_StudentDB/find-student-by-id?studentId=108 HTTP/1.1" 200 574
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:15:26 +0530] "POST /Spring_MVC_StudentDB/save-update-student HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:15:26 +0530] "GET /Spring_MVC_StudentDB/displayAllStudents HTTP/1.1" 200 2275
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:37:10 +0530] "GET /Spring_MVC_StudentDB HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Dec/2024:10:37:10 +0530] "GET /Spring_MVC_StudentDB/ HTTP/1.1" 200 307

@@ -1,0 +1,10 @@
+127.0.0.1 - - [13/Jan/2025:15:27:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:27:19 +0530] "GET /Spring_MVC_StudentDB/index.jsp HTTP/1.1" 200 307
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:27:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:27:26 +0530] "GET /Spring_MVC_StudentDB/AddStudent.jsp HTTP/1.1" 200 681
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:27:58 +0530] "POST /Spring_MVC_StudentDB/add-student HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:27:58 +0530] "GET /Spring_MVC_StudentDB/index.jsp HTTP/1.1" 200 307
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:28:00 +0530] "GET /Spring_MVC_StudentDB/displayAllStudents HTTP/1.1" 200 2541
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:28:10 +0530] "GET /Spring_MVC_StudentDB/find-student-by-id?studentId=110 HTTP/1.1" 200 568
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:28:16 +0530] "POST /Spring_MVC_StudentDB/save-update-student HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2025:15:28:16 +0530] "GET /Spring_MVC_StudentDB/displayAllStudents HTTP/1.1" 200 2541

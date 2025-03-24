@@ -1,0 +1,5 @@
+INDEX VERSION 1.132
+C:\Users\Yogeesh DR\OneDrive\Desktop\Yogeesh\Sai Charan Sir(SpringMVC)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3397802059.index
+\Spring_MVC_Demo\src\main\resources
+C:\Users\Yogeesh DR\OneDrive\Desktop\Yogeesh\Sai Charan Sir(SpringMVC)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3179382495.index
+\Spring_MVC_StudentDB\src\main\resources
