@@ -42,12 +42,12 @@ public class Student {
 	public void setStudentCourse(String studentCourse) {
 		this.studentCourse = studentCourse;
 	}
-//	@Override
-//	public String toString() {
-//		return "Student [studentId=" + studentId + ", studentName=" + studentName + ", studentEmail=" + studentEmail
-//				+ ", studentAge=" + studentAge + ", studentCourse=" + studentCourse + "]";
-//	}
-//	
+	@Override
+	public String toString() {
+		return "Student [studentId=" + studentId + ", studentName=" + studentName + ", studentEmail=" + studentEmail
+				+ ", studentAge=" + studentAge + ", studentCourse=" + studentCourse + "]";
+	}
+	
 	
 
 }
